@@ -16,7 +16,6 @@ This is a low-poly 3D asset of a wooden military crate optimized for game engine
 - Metalness  
 - Ambient Occlusion  
 
-The low-poly mesh was baked from a high-poly version.
 
 __Preview on Sketchfab:__ [https://skfb.ly/puyHt](https://skfb.ly/puyHt)  
 
@@ -46,7 +45,6 @@ __Preview on Sketchfab:__ [https://skfb.ly/puyHt](https://skfb.ly/puyHt)
 - Metalness  
 - Ambient Occlusion  
 
-Лоу-поли модель запечена с хай-поли версии.
 
 __Превью на Sketchfab:__ [https://skfb.ly/puyHt](https://skfb.ly/puyHt)  
 
