@@ -28,7 +28,7 @@ __Preview on Sketchfab:__ [https://skfb.ly/puyHt](https://skfb.ly/puyHt)
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
----
+___
 
 ## Военный деревянный ящик – игровой ассет
 
